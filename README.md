@@ -1,16 +1,17 @@
 # flutter_application_firebase
 
-A new Flutter project.
+Aplikasi CRUD sederhana dengan melakukan pengintegrasian database ke firebase.
 
-## Getting Started
+## Tampilan
 
-This project is a starting point for a Flutter application.
+### 1. Tampilan halaman tambah data
+![insert](https://github.com/helmimarif/PM-FirebaseCRUD/blob/main/screenshot/Screenshot_20221113-084830645.jpg/)
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Tampilan berhasil tambah data
+![success](https://github.com/helmimarif/PM-FirebaseCRUD/blob/main/screenshot/Screenshot_20221113-084850237.jpg) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Tampilan list data
+![list](https://github.com/helmimarif/PM-FirebaseCRUD/blob/main/screenshot/Screenshot_20221113-084854976.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Tampilan list data pada database
+![database](https://github.com/helmimarif/PM-FirebaseCRUD/blob/main/screenshot/screenshot-console.firebase.google.com-2022.11.13-08_50_05.png)
